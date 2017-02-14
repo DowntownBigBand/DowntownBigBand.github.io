@@ -7,20 +7,21 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DowntownBigBand.github.io",
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_57592"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Git\DTBB\DowntownBigBand.github.io\"
+		Debug.AspNetCompiler.PhysicalPath = "..\DowntownBigBand.github.io\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57592\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_57592"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\Git\DTBB\DowntownBigBand.github.io\"
+		Release.AspNetCompiler.PhysicalPath = "..\DowntownBigBand.github.io\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_57592\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "57592"
+		SlnRelativePath = "..\DowntownBigBand.github.io\"
 	EndProjectSection
 EndProject
 Global
